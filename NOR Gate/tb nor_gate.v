@@ -2,7 +2,7 @@ module tb_nor_gate;
   reg A,B;
   wire Y;
   
-  nor_gate na1 (.a(A),.b(B),.y(Y));
+  nor_gate no1 (.a(A),.b(B),.y(Y));
   
   initial begin
     A=1'b0;
