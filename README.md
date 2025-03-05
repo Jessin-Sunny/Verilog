@@ -4,14 +4,16 @@
 
 | ExpNo | Experiment Name |
 |----------|----------|
-|1   | Linux Commands   |
-|2   | Shell Programming   |
-|3   | System Calls - 1   |
-|4   | System Calls - 2   |
-|5   | CPU Scheduling - FIFO, SJF, Priority, Round Robin  |
-|6   | User Chat   |
-|7   | Classical Problems of Process Synchronization   |
-|8   | Banker's Algorithm   |
-|9   | Memory Allocation - Best Fit, First Fit, Worst Fit |
-|10   | Disk Scheduling - FCFS, SCAN, CSCAN, LOOK, CLOOK   |
-|11   | Page Replacement Algorithms - FIFO, Optimal, LRU   |
+|1   | NOT Gate   |
+|2   | AND Gate   |
+|3   | OR Gate  |
+|4   | XOR Gate   |
+|5   | NAND Gate  |
+|6   | NOR Gate   |
+|7   | Multiplexer   |
+|8   | Demultiplexer   |
+|9   | Adders |
+|10   | 4 Bit Adder   |
+|11   | BCD Adder   |
+|12   | Full Adder using Half Adder  |
+|13   | Three and Four Variable K-Map   |
